@@ -1,6 +1,6 @@
 # video_frame_extractor
 视频关键帧提取工具
-[https://pic1.imgdb.cn/item/67bf0659d0e0a243d4061b34.png]
+ [![](https://pic1.imgdb.cn/item/67bf0659d0e0a243d4061b34.png)]
 # 特点
 支持视频预览
 支持多种视频各式和导出格式
