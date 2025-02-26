@@ -1,5 +1,5 @@
 # 视频关键帧提取工具
-![](https://pic1.imgdb.cn/item/67bf0659d0e0a243d4061b34.png)
+![OQioSU.png](https://ooo.0x0.ooo/2025/02/26/OQioSU.png)
 # 特点
 ### 支持视频预览
 ### 支持多种视频各式和导出格式
